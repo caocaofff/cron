@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cron", "cron\cron.csproj", "{9270BB67-3779-42BF-98CD-ED707233CB26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9270BB67-3779-42BF-98CD-ED707233CB26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9270BB67-3779-42BF-98CD-ED707233CB26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9270BB67-3779-42BF-98CD-ED707233CB26}.Debug|x64.ActiveCfg = Debug|x64
+		{9270BB67-3779-42BF-98CD-ED707233CB26}.Debug|x64.Build.0 = Debug|x64
+		{9270BB67-3779-42BF-98CD-ED707233CB26}.Debug|x86.ActiveCfg = Debug|x86
+		{9270BB67-3779-42BF-98CD-ED707233CB26}.Debug|x86.Build.0 = Debug|x86
+		{9270BB67-3779-42BF-98CD-ED707233CB26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9270BB67-3779-42BF-98CD-ED707233CB26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9270BB67-3779-42BF-98CD-ED707233CB26}.Release|x64.ActiveCfg = Release|x64
+		{9270BB67-3779-42BF-98CD-ED707233CB26}.Release|x64.Build.0 = Release|x64
+		{9270BB67-3779-42BF-98CD-ED707233CB26}.Release|x86.ActiveCfg = Release|x86
+		{9270BB67-3779-42BF-98CD-ED707233CB26}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {912A4BE4-F85B-4524-8132-42EB1D32D57C}
+	EndGlobalSection
+EndGlobal
